@@ -1,0 +1,14 @@
+.Media{
+    cursor: pointer;
+    margin-right: 15px;
+    display: inline-block;
+    width: 260px;
+    vertical-align: top;
+}
+.Title{
+    font-size: 20px;
+    color:green;
+}
+.Name{
+    font-size: 12px;
+}
